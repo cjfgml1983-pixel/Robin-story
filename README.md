@@ -71,4 +71,16 @@ UTF-8(디폴드값)
 구구단 소스 c언어
 <img width="1705" height="953" alt="image" src="https://github.com/user-attachments/assets/0c8166e9-0642-4c1f-bb6f-ff12cd649ac4" />
 
+구구단 소스 python언어
+
+
+######3장
+
+
+
+
+
+
+
+
 
